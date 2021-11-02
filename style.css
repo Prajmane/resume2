@@ -9,7 +9,7 @@
     margin-right: 30px;
     }
     h1{
-        color: darkblue;
+        color: darkgreen;
         background-color: darkmagenta;
     }
  #para{ 
@@ -22,7 +22,7 @@
     padding:auto;
     /* border: 1px solid black;  */
     margin: 0px auto;
-    background-color: coral;
+    background-color: skyblue;
     
 }
 .outer h1{
